@@ -1,1 +1,1 @@
-# easy-room
+# easy-rooms
